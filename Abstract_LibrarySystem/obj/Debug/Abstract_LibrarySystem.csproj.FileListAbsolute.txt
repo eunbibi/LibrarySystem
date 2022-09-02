@@ -1,0 +1,10 @@
+C:\Users\leeyh\Desktop\Abstract_LibrarySystem\Abstract_LibrarySystem\obj\Debug\Abstract_LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\leeyh\Desktop\Abstract_LibrarySystem\Abstract_LibrarySystem\obj\Debug\Abstract_LibrarySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\leeyh\Desktop\Abstract_LibrarySystem\Abstract_LibrarySystem\obj\Debug\Abstract_LibrarySystem.Properties.Resources.resources
+C:\Users\leeyh\Desktop\Abstract_LibrarySystem\Abstract_LibrarySystem\obj\Debug\Abstract_LibrarySystem.csproj.GenerateResource.cache
+C:\Users\leeyh\Desktop\Abstract_LibrarySystem\Abstract_LibrarySystem\obj\Debug\Abstract_LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\leeyh\Desktop\Abstract_LibrarySystem\Abstract_LibrarySystem\bin\Debug\Abstract_LibrarySystem.exe.config
+C:\Users\leeyh\Desktop\Abstract_LibrarySystem\Abstract_LibrarySystem\bin\Debug\Abstract_LibrarySystem.exe
+C:\Users\leeyh\Desktop\Abstract_LibrarySystem\Abstract_LibrarySystem\bin\Debug\Abstract_LibrarySystem.pdb
+C:\Users\leeyh\Desktop\Abstract_LibrarySystem\Abstract_LibrarySystem\obj\Debug\Abstract_LibrarySystem.exe
+C:\Users\leeyh\Desktop\Abstract_LibrarySystem\Abstract_LibrarySystem\obj\Debug\Abstract_LibrarySystem.pdb
