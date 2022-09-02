@@ -1,4 +1,5 @@
 Abstraction
+
 It is the definition of the behavior and properties of a class.
 
 Abstract classes are generally used when implementing inheritance.
